@@ -15,4 +15,11 @@ Only stabilize & boost your pc a little.
 
 Contact: https://t.me/MrSanZzXe / insomniagpt4@gmail.com
 
+```How to download:```
+1. winget install git
+2. git clone https://github.com/MrSanZz/BoosterX
+3. Done
+
+Or you can manually download it with clicking 'BoosterX.exe' on this repository and then find the download logo and click it.
+
 Enjoy!.
